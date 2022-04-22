@@ -20,4 +20,8 @@ going through.but if you choose 0 you will find the final result from pipeline).
  2. Please write the input video path (you will find in Project_data folder 3 test videos with different levels of curves difficulties).
  3. Please wirte the output video path.
 
+# Samples from videos output:
+ You can find the test_video_ouput folder 
+ ## Note :
+ In challenge_video.mp4 and harder_challenge_video.mp4 we tried to get output better than this but we cann't achived maybe we need to apply another techniques .
 
