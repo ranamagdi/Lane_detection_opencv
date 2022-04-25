@@ -22,7 +22,7 @@ going through.but if you choose 0 you will find the final result from pipeline).
  3. Please wirte the output video path.
 
 # 3. Samples from videos output:
- You can find the test_video_ouput folder 
+ You can find them in the test_video_ouput folder 
  ## Note :
  In challenge_video.mp4 and harder_challenge_video.mp4 we tried to get output better than this but we cann't achived maybe we need to apply another techniques .
 
