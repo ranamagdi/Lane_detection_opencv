@@ -5,7 +5,7 @@ area between them in any color you like (we paint to green) <br>
 lane.<br>
 3. As a bonus, you can try to estimate the radius of curvature of the road as well (we make it!).
 ## Note:
-We tried to get the purposes¹ without use Camera Calibration and we get the output fail to detect the curves correctly (you can find our notebook and videos outputs in old_version_with_output folder) .So in the lane_detection_opencv_updated notebook we tried to use the Camera Calibration because we encouraged to use it when we read that the Camera lenses distort incoming light to focus it on the camera sensor.Although this is very useful in allowing us to capture images of our environment, they often end up distorting light slightly inaccurately.This can result in inaccurate measurements in computer vision applications.So we add this step .<br> And also we tried to use canny detection in old verion but we use sobel insted in new version.
+We tried to get the purposes without use Camera Calibration and we get the output fail to detect the curves correctly (you can find our notebook and videos outputs in old_version_with_output folder) .So in the lane_detection_opencv_updated notebook we tried to use the Camera Calibration because we encouraged to use it when we read that the Camera lenses distort incoming light to focus it on the camera sensor.Although this is very useful in allowing us to capture images of our environment, they often end up distorting light slightly inaccurately.This can result in inaccurate measurements in computer vision applications.So we add this step .<br> And also we tried to use canny detection in old verion but we use sobel insted in new version.
 
 
 # 2. How to run the code:
